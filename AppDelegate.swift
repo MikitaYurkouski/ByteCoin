@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ByteCoin
 //
-//  Created by Никита Юрковский on 11/09/2019.
+//  Created by Никита Юрковский on 11/09/2023.
 //
 
 import UIKit
