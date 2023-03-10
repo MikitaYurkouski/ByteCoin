@@ -2,7 +2,7 @@
 //  CoinData.swift
 //  ByteCoin
 //
-//  Created by Никита Юрковский on 12/09/2019.
+//  Created by Никита Юрковский on 12/09/2023.
 //
 
 import Foundation
